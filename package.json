@@ -1,0 +1,16 @@
+{
+  "name": "whales-ambr-weekly-drop",
+  "version": "1.0.0",
+  "description": "Whales Club AMBR Weekly Drop for Rare NFTs",
+  "main": "drop.js",
+  "type": "module",
+  "scripts": {
+    "drop": "node drop.js"
+  },
+  "keywords": [],
+  "author": "Ferrari Apple",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
